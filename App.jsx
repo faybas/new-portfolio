@@ -2,11 +2,10 @@ import "./App.scss";
 import About from "../../my-portfolio/src/Pages/About/About";
 import Home from "../../my-portfolio/src/Pages/Home/Home";
 import Header from "../../my-portfolio/src/components/header/header";
-import github from './assets/github.png';
+import github from '../../my-portfolio/src/assets/github.png';
 import Social from "../../my-portfolio/src/Components/Social/Social";
 
-import linkedin from './assets/linkedin.png';
-import blog from './assets/blog.png';
+import linkedin from '../../my-portfolio/src//assets/linkedin.png';
 import Projects from "../../my-portfolio/src/Pages/Projects/Projects";
 import Contact from "../../my-portfolio/src/Pages/Contact/Contact";
 import { useEffect } from "react";
